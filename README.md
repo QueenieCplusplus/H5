@@ -83,4 +83,8 @@ col == td
       
 #---------------------------------------------------------------------------------
 
-      
+# Class ID
+
+Classes are id for the elements that they are assigned to. Use the class attribute to assign a class to an element.
+
+            <div class="class_name"></div>
