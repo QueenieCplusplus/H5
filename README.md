@@ -36,7 +36,7 @@ HTML5, HyperText Markup Lang
        
 #---------------------------------------------------------------------------------
 
-# Run-JS-Script
+# Run-JS-Script, 腳本注入
 
        <a href="javascript:myFunction();">Run Code</a>
 
