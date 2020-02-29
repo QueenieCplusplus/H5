@@ -116,3 +116,34 @@ Use the mime-type image/png for PNG files and image/x-icon for icon (*.ico) file
 A file named favicon.ico at the root of developers website will typically be loaded and applied automatically, without the need for a <link> tag. 
 
 If this file ever changes, browsers can be slow and stubborn about updating their cache.
+
+#---------------------------------------------------------------------------------
+
+# CSS (internal, inline)
+
+Multiple internal stylesheets can be included in a program as well.
+
+* internal CSS
+
+            <head>
+            <link rel="stylesheet" type="text/css" href="stylesheet.css">
+            </head>
+            
+* link to Bootstrap
+
+            <head>
+            <link rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384- BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"> 
+            </head>
+ 
+ * inline CSS
+ 
+            <head>
+                 <style type="text/css">
+                        body {
+                              background-color: gray;
+                        }
+                 </style>
+            </head>
+            
+            
