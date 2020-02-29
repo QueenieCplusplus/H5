@@ -95,7 +95,14 @@ col == td
 
 # Menu-View (with Seletion Ops)
 
-
+      <select name="qsTech">
+          <option value="1"> iOS </option>
+          <option value="2"> Andriod </option>
+          <option value="3"> Crawler </option>
+          <option value="4"> React </option>
+          <option value="5"> NodeJS </option>
+          <option value="6"> GoLang </option>
+      </select>
       
 #---------------------------------------------------------------------------------
 
