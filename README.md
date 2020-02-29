@@ -26,3 +26,5 @@ HTML5, HyperText Markup Lang
       
       (6) <s></s>, stricken
       
+      (7) <ins></ins>, insert
+      
