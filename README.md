@@ -28,3 +28,5 @@ HTML5, HyperText Markup Lang
       
       (7) <ins></ins>, insert
       
+      (8) <sup></sup>, <sub></sub>, super script & sub script
+      
