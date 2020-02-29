@@ -146,4 +146,41 @@ Multiple internal stylesheets can be included in a program as well.
                  </style>
             </head>
             
+#---------------------------------------------------------------------------------
+
+# SO ON...
+
+* Input
+
+  * Form (submit, upload)
+
+  * Image
+
+  * Other useful element:
+
+    * div
+    
+    * nav
+    
+    * label
+    
+* Output
+
+   * Media
+   
+   * Void
+   
+* Progress
+
+if browser supports, then
+
+      <progress> </progress>
+
+else
+
+      <div class="progress-bar">
+            <span style="width: 20%;">Progress: 20%</span> 
+      </div>
+    
+            
             
