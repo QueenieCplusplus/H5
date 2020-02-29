@@ -107,3 +107,12 @@ The ID attr of an element is an identifier which must be unique in the whole doc
 
             <div id="example-id"></div>
 
+#---------------------------------------------------------------------------------
+
+# Favicon
+
+Use the mime-type image/png for PNG files and image/x-icon for icon (*.ico) files. 
+
+A file named favicon.ico at the root of developers website will typically be loaded and applied automatically, without the need for a <link> tag. 
+
+If this file ever changes, browsers can be slow and stubborn about updating their cache.
