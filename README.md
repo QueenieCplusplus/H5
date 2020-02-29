@@ -106,3 +106,4 @@ Classes are id for the elements that they are assigned to. Use the class attribu
 The ID attr of an element is an identifier which must be unique in the whole document. Its purpose is to uniquely identify the element when linking (using an anchor), scripting, or styling (with CSS).
 
             <div id="example-id"></div>
+
