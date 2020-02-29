@@ -13,12 +13,13 @@ HTML5, HyperText Markup Lang
 
 * Text Format
 
-(1) <mark></mark>, hightlight
 
-(2) <b></b>, bold
+      (1) <mark></mark>, hightlight
 
-(3) <i></i>, italic
+      (2) <b></b>, bold
 
-(4) <u></u>, underline
+      (3) <i></i>, italic
 
-(5) <abbr></abbr>
+      (4) <u></u>, underline
+
+      (5) <abbr></abbr>
