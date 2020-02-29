@@ -23,3 +23,6 @@ HTML5, HyperText Markup Lang
       (4) <u></u>, underline
 
       (5) <abbr></abbr>
+      
+      (6) <s></s>, stricken
+      
