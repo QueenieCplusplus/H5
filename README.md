@@ -30,3 +30,7 @@ HTML5, HyperText Markup Lang
       
       (8) <sup></sup>, <sub></sub>, super script & sub script
       
+* Anchor
+
+       <a href="http://google.com/">Link to Google</a>
+      
