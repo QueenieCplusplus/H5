@@ -132,6 +132,38 @@ If this file ever changes, browsers can be slow and stubborn about updating thei
 
 #---------------------------------------------------------------------------------
 
+# Global Attr
+
+Attribute
+
+class
+
+contenteditable
+
+contextmenu
+
+dir
+
+draggable
+
+hidden
+
+id
+
+lang
+
+spellcheck
+
+style
+
+tabindex
+
+title
+
+translate
+
+#---------------------------------------------------------------------------------
+
 # CSS (internal, inline)
 
 Multiple internal stylesheets can be included in a program as well.
