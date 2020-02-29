@@ -41,6 +41,16 @@ HTML5, HyperText Markup Lang
        <a href="javascript:myFunction();">Run Code</a>
 
        <a href="#" onclick="myFunction(); return false;">Run Code</a>
+  
+* Able
+       
+      <script>
+       document.write("Hello, world!");
+      </script>
+
+* Disable
+
+      <noscript> This browser does not support Javascript. </noscript>
        
 #---------------------------------------------------------------------------------
 
