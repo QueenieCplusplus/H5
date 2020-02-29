@@ -33,4 +33,16 @@ HTML5, HyperText Markup Lang
 * Anchor
 
        <a href="http://google.com/">Link to Google</a>
+       
+#---------------------------------------
+
+# Run-JS-Script
+
+       <a href="javascript:myFunction();">Run Code</a>
+
+       <a href="#" onclick="myFunction(); return false;">Run Code</a>
+       
+#---------------------------------------
+
+
       
